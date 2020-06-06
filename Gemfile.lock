@@ -369,7 +369,7 @@ GEM
       railties (>= 4.2)
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.4)
+    websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
 
@@ -415,7 +415,6 @@ DEPENDENCIES
   rspec-rails
   rspec-retry
   rubocop
-  sass
   sass-rails (~> 5.0)
   seed-fu (~> 2.3)
   selenium-webdriver
